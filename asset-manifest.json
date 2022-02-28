@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/JamesdsWarner/robots-rolodex.git/static/css/main.8677f2f2.css",
-    "main.js": "/JamesdsWarner/robots-rolodex.git/static/js/main.9b278ae7.js",
-    "static/js/787.f49a965f.chunk.js": "/JamesdsWarner/robots-rolodex.git/static/js/787.f49a965f.chunk.js",
-    "index.html": "/JamesdsWarner/robots-rolodex.git/index.html",
-    "main.8677f2f2.css.map": "/JamesdsWarner/robots-rolodex.git/static/css/main.8677f2f2.css.map",
-    "main.9b278ae7.js.map": "/JamesdsWarner/robots-rolodex.git/static/js/main.9b278ae7.js.map",
-    "787.f49a965f.chunk.js.map": "/JamesdsWarner/robots-rolodex.git/static/js/787.f49a965f.chunk.js.map"
+    "main.css": "/robots-rolodex/static/css/main.8677f2f2.css",
+    "main.js": "/robots-rolodex/static/js/main.eed9b479.js",
+    "static/js/787.f49a965f.chunk.js": "/robots-rolodex/static/js/787.f49a965f.chunk.js",
+    "index.html": "/robots-rolodex/index.html",
+    "main.8677f2f2.css.map": "/robots-rolodex/static/css/main.8677f2f2.css.map",
+    "main.eed9b479.js.map": "/robots-rolodex/static/js/main.eed9b479.js.map",
+    "787.f49a965f.chunk.js.map": "/robots-rolodex/static/js/787.f49a965f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8677f2f2.css",
-    "static/js/main.9b278ae7.js"
+    "static/js/main.eed9b479.js"
   ]
 }
